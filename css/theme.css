@@ -1,0 +1,48 @@
+body {
+    background-color: #ebebeb !important;
+    font-family: sans-serif;
+}
+
+.top-header {
+    top: 0px;
+    margin-bottom: 10px;
+    color: #338085;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    background-color: #f0f0f0;
+}
+
+.info {
+    border: 1px solid #dfdfdf;
+    background-color: white;
+    border-radius: 2px;
+}
+
+.inside-info {
+    display: block;
+    width: 100%;
+}
+.blue-banner{
+    background-color: #0081c0;
+    color: white;
+    padding:0em 2em 0em 2em; 
+}
+
+#IOE-logo {
+    margin: 10px;
+    height: 85px;
+    align-self: left;
+}
+.title{
+    margin: 15px 5px 25px 5px;
+    font-size: 1.5em;
+}
+.login-box{
+    border: 2px solid #dedede;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    color:87847f;
+    margin:30px;
+    padding: 10px;
+}
