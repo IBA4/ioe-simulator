@@ -3,7 +3,5 @@ This repo contains the source code for  ioe-simulator : A simulator for IOE entr
 
 Check the ***Prototype-ish*** version of html files ***for now*** in :
 
-[index.html](https://1ba4.github.io/ioe-simulator)
-
-[welcome-page.html](https://1ba4.github.io/ioe-simulator/site/welcome-page.html)
+I couldn't figure out the links to index.html files of branch.Can you do it Nabin.
 
