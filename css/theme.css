@@ -57,3 +57,28 @@ body {
     margin: 30px;
     padding: 10px;
 }
+
+
+.form-control-alert{
+    box-shadow: 0px 0px 3px rgb(255, 0, 0);
+    border-color:  rgb(255, 0, 0);   
+}
+
+.form-control-alert:focus{
+    box-shadow: 0px 0px 3px rgb(255, 0, 0);
+    border-color:  rgb(255, 0, 0);   
+}
+
+.form-control-alert:hover{
+    box-shadow: 0px 0px 3px rgb(255, 0, 0);
+    border-color:  rgb(255, 0, 0);   
+}
+
+.form-control-alert:active{
+    box-shadow: 0px 0px 3px rgb(255, 0, 0);
+    border-color:  rgb(255, 0, 0);   
+}
+
+.wrong{
+    color : rgb(255, 0, 0);
+}
